@@ -1,4 +1,4 @@
-module github.com/aaron-dy-moon/fyne-terminal
+module github.com/aaron-dy-moon/fyne_terminal
 
 go 1.17
 
